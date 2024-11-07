@@ -14,7 +14,7 @@ export default function About() {
 
     <div className="flex flex-wrap items-center mt-20 text-left text-center">
         <div className="w-full md:w-3/5 lg:w-1/2 px-4">
-            <img src="c1.png"  className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"></img>
+            <img src="c1.png"  className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl" />
         </div>
             
         
@@ -31,7 +31,7 @@ export default function About() {
 
     <div className="flex flex-wrap items-center mt-20 text-left text-center">
         <div className="w-full md:w-3/5 lg:w-1/2 px-4">
-            <img src="c2.png"  className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"></img>
+            <img src="c2.png"  className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"/>
         </div>
         <div className="w-full md:w-2/5 lg:w-1/2 px-4 md:order-first text-center md:text-left lg:pr-12 ">
             <h3 className="text-amber-400 font-bold mt-8 text-xl md:mt-0 sm:text-2xl">
@@ -40,14 +40,14 @@ export default function About() {
 
             <form className="w-full   shadow-md rounded px-8 pt-6 pb-8 mb-4 hover:scale-105 hover:shadow-xl">
             <p className="sm:text-lg mt-6 hover:scale-105 hover:shadow-xl">
-            <strong>Chef Tareeq</strong> is a skilled culinary artist specializing in Chinese cuisine, with professional experience working as a chef in China. His deep understanding of authentic Chinese flavors, techniques, and ingredients sets him apart in the field. Chef Tareeq is known for his precision in balancing flavors and textures, creating dishes that showcase the true essence of Chinese cooking. His expertise spans a variety of regional specialties, from Cantonese to Sichuan, and his dedication to maintaining authenticity has earned him a reputation for excellence. Chef Tareeq's culinary journey and hands-on experience in China make him a sought-after professional for anyone craving an authentic Chinese dining experience.
+            <strong>Chef Tareeq</strong> is a skilled culinary artist specializing in Chinese cuisine, with professional experience working as a chef in China. His deep understanding of authentic Chinese flavors, techniques, and ingredients sets him apart in the field. Chef Tareeq is known for his precision in balancing flavors and textures, creating dishes that showcase the true essence of Chinese cooking. His expertise spans a variety of regional specialties, from Cantonese to Sichuan, and his dedication to maintaining authenticity has earned him a reputation for excellence. Chef Tareeq culinary journey and hands-on experience in China make him a sought-after professional for anyone craving an authentic Chinese dining experience.
             </p></form>
         </div>
     </div>
 
     <div className="flex flex-wrap items-center mt-20 text-left  text-center">
         <div className="w-full md:w-3/5 lg:w-1/2 px-4">
-            <img src="c3.png"  className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"></img>
+            <img src="c3.png"  className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"/>
         </div>
         <div className="w-full md:w-2/5 lg:w-1/2 px-4 text-center md:text-left lg:pl-12">
             <h3 className=" text-amber-400 font-bold mt-8 text-xl md:mt-0 sm:text-2xl">
@@ -55,14 +55,14 @@ export default function About() {
             </h3>
             <form className="w-full   shadow-md rounded px-8 pt-6 pb-8 mb-4 hover:scale-105 hover:shadow-xl">
             <p className="sm:text-lg mt-6 hover:scale-105 hover:shadow-xl">
-            <strong>Chef Saransh</strong> is a passionate and innovative chef known for his expertise in Indian cuisine and his flair for creating fusion dishes that blend traditional and modern flavors. With a background in culinary arts and a dedication to exploring regional Indian recipes, Chef Saransh has become known for reinventing classic dishes with a unique twist. His culinary style emphasizes fresh, locally-sourced ingredients, vibrant spices, and meticulous presentation, bringing an unforgettable experience to each plate. Chef Saransh’s creativity and skill have earned him recognition, making him a popular choice for those seeking both authentic Indian flavors and exciting, contemporary culinary creations.
+            <strong>Chef Saransh</strong> is a passionate and innovative chef known for his expertise in Indian cuisine and his flair for creating fusion dishes that blend traditional and modern flavors. With a background in culinary arts and a dedication to exploring regional Indian recipes, Chef Saransh has become known for reinventing classic dishes with a unique twist. His culinary style emphasizes fresh, locally-sourced ingredients, vibrant spices, and meticulous presentation, bringing an unforgettable experience to each plate. Chef Saransh creativity and skill have earned him recognition, making him a popular choice for those seeking both authentic Indian flavors and exciting, contemporary culinary creations.
             </p></form>
         </div>
     </div>
 
     <div className="flex flex-wrap items-center mt-20 text-left text-center">
         <div className="w-full md:w-3/5 lg:w-1/2 px-4">
-            <img src="c4.png" alt="bulk editing" className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"></img>
+            <img src="c4.png" alt="bulk editing" className="inline-block rounded shadow-lg border border-merino-400 hover:scale-105 hover:shadow-xl"/>
         </div>
         <div className="w-full md:w-2/5 lg:w-1/2 px-4 md:order-first text-center md:text-left lg:pr-12">
             <h3 className="text-amber-400 font-bold mt-8 text-xl md:mt-0 sm:text-2xl">

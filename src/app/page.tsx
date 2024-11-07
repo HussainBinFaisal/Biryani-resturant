@@ -4,7 +4,7 @@ export default function Home() {
       return (
      <div>   
         <div className="relative h-screen w-full">
-    <img src="bg1.png"  className="absolute inset-0 w-full h-full object-cover "></img>
+    <img src="bg1.png"  className="absolute inset-0 w-full h-full object-cover "/>
     <div className="absolute inset-0 bg-black bg-opacity-10">
    
     
@@ -13,7 +13,7 @@ export default function Home() {
           <h1 className="text-5xl font-bold text-amber-400 mb-8">Thanks For Visiting Our Resturant</h1>
           <div className="text-center">
             <p className="text-lg text-amber-400 mb-4">
-              I'm <strong>Chef Hussain Faisal</strong>,Had alot of experence in the field of cooking i hope u wil enjoy our food!
+              I am <strong>Chef Hussain Faisal</strong>,Had alot of experence in the field of cooking i hope u wil enjoy our food!
             </p>
             <a href="/about" className="bg-blue-500 hover:bg-blue-700 text-amber-400 font-bold py-2 px-4 rounded">
               Lets move around
